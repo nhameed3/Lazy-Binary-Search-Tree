@@ -3,7 +3,6 @@ Author: Nauman Hameed
 Date: 4/11/17
 CMSC 341 Spring 2017
 Description: LazyBST, binary search tree 
-this file uses Dr. Park's implementation
 */
 #include "LazyBST.h"
 
